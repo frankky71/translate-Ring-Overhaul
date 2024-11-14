@@ -1,0 +1,32 @@
+﻿{
+  /*
+		The first entry before the : is the translation key, leave that one unchanged. Only change the translation in the "" behind it.
+		Every value that you don't translate (or that is missing when I update) will simply take the english translation I wrote.
+		So if you don't want to translate the gmcm config menu, you don't have to.
+		\n means insert a line break (you can see I use line breaks in the gmcm config menu because it doesn't do that automatically).
+  */
+  "IridiumBandTooltip": "Увеличивает каждую характеристику оружия на 10%.",
+  "ExplorerRingName": "Кольцо Исследователя",
+  "BerserkerRingName": "Кольцо Берсеркера",
+  "PaladinRingName": "Кольцо Паладина",
+  "GemBandName": "Драгоценный Обод", // this one is used when you combined the gem rings at the forge for some reason, instead of crafting an iridium band, so it's almost never seen
+  "ConfigCraftableGemRings": "Изготавливаемые Драгоценные Кольца",
+  "ConfigCraftableGemRingsMetalBar": "Необходимый металлический слиток",
+  "ConfigCraftableGemRingsProgressive": "Вариант разблокировки",
+  "ConfigCraftableGemRingsUnlockLevel": "Уровень для разблокировки",
+  "ConfigCraftableGemRingsCustomSprites": "Пользовательские спрайты",
+  "ConfigCraftableGemRingsCustomSpritesBetterRings": "Пользовательские спрайты отключены в пользу мода «Better Rings»",
+  "ConfigOtherCraftingChangesCategory": "Другие изменения в крафте",
+  "ConfigOtherCategory": "Другое",
+  "ConfigJukeboxRing": "Музыкальное кольцо",
+  "ConfigJukeboxRingWorksInRain": "Музыкальное кольцо работает в дождь",
+  "ConfigMinorRingCraftingChanges": "Незначительные изменения в крафте",
+  "ConfigMinorRingCraftingChangesDescription": "Дешевле «Кольцо Стойкости» и «Кольцо воина».",
+  "ConfigRemoveCITooltip": "Удалить Описание Крабового Кольца\nИ Кольца Стойкости \nИз Комбинированного Кольца",
+  "ConfigRemoveLTooltip": "Удалить Описание Кольца Удачи \nИз Комбинированного Кольца",
+  "ConfigOldGlowStoneRingRecipe": "Старый рецепт Светокаменного кольца",
+  "ConfigOldIridiumBandRecipe": "Старый рецепт Иридиевого Обода",
+  "ConfigOldIridiumBandRecipeDescription": "Отключение параметра «Изменения Иридиевого Обода Включены» также принудительно включает этот параметр.",
+  "ConfigIridiumBandChangesEnabled": "Изменения Иридиевого Обода Включены",
+  "ConfigIridiumBandChangesEnabledDescription": "Отключение этого параметра также принудительно включает настройку «Старый рецепт Иридиевого Обода»."
+}
